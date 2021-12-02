@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paviproject/static/css/main.17cbb2a9.chunk.css",
+    "main.js": "/paviproject/static/js/main.1b84e3ee.chunk.js",
+    "main.js.map": "/paviproject/static/js/main.1b84e3ee.chunk.js.map",
+    "runtime-main.js": "/paviproject/static/js/runtime-main.c95b1759.js",
+    "runtime-main.js.map": "/paviproject/static/js/runtime-main.c95b1759.js.map",
+    "static/js/2.2e04d817.chunk.js": "/paviproject/static/js/2.2e04d817.chunk.js",
+    "static/js/2.2e04d817.chunk.js.map": "/paviproject/static/js/2.2e04d817.chunk.js.map",
+    "static/js/3.806a3f07.chunk.js": "/paviproject/static/js/3.806a3f07.chunk.js",
+    "static/js/3.806a3f07.chunk.js.map": "/paviproject/static/js/3.806a3f07.chunk.js.map",
+    "index.html": "/paviproject/index.html",
+    "static/css/main.17cbb2a9.chunk.css.map": "/paviproject/static/css/main.17cbb2a9.chunk.css.map",
+    "static/js/2.2e04d817.chunk.js.LICENSE.txt": "/paviproject/static/js/2.2e04d817.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/paviproject/static/media/searchIcon.0e74f871.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c95b1759.js",
+    "static/js/2.2e04d817.chunk.js",
+    "static/css/main.17cbb2a9.chunk.css",
+    "static/js/main.1b84e3ee.chunk.js"
+  ]
+}
