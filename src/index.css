@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.login-form
+{
+justify-content: center;
+min-height: 90vh;
+}
+.gridStyle {
+  margin-top: 100px;
+}
+.postjob-form
+{
+justify-content: left;
+min-height: 90vh;
+}
+.button-block{
+width: 100%;
+}
+.forgotPassword{
+  width: 100%;
+  }
+.forgot{
+  width: 100%;
+  background-color: white;
+  }
+.login-background
+{
+justify-content: center;
+min-height: 30vh;
+padding: 50px;
+}
+.postjob-background
+{
+justify-content: left;
+min-height: 30vh;
+padding: 50px;
+}
+.image {
+background-image: url("job.jpg");
+}
+.SearchImage {
+  background-image: url("searchIcon.jpg");
+}
