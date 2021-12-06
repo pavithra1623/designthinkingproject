@@ -81,9 +81,9 @@ class Login extends React.Component {
 
     render() {
         console.log(this.state.signIn);
-        if (this.state.signInError) {
-            alert('Incorrect Credntials!');
-        }
+        // if (this.state.signInError) {
+        //     //alert('Incorrect Credntials!');
+        // }
         if (this.state.signIn) {
             return (
                 <Dashboard />
